@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.preloader {
+  background: url("https://i.gifer.com/ENTc.gif") no-repeat center;
+
+  width: 160px;
+  height: 160px;
+}
